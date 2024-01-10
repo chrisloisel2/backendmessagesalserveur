@@ -152,3 +152,4 @@
 /Users/christopher/backendmessagesalserveur/correction/obj/Debug/net8.0/correction.pdb
 /Users/christopher/backendmessagesalserveur/correction/obj/Debug/net8.0/correction.genruntimeconfig.cache
 /Users/christopher/backendmessagesalserveur/correction/obj/Debug/net8.0/ref/correction.dll
+/Users/christopher/backendmessagesalserveur/correction/obj/Debug/net8.0/correction.sourcelink.json
