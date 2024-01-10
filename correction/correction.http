@@ -1,0 +1,6 @@
+@correction_HostAddress = http://localhost:5125
+
+GET {{correction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
